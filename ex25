@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE ContactName LIKE 'J%'
+ORDER BY Country AND PostalCode;
