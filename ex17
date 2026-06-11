@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE PostalCode LIKE '_%'
+ORDER BY PostalCode DESC;
