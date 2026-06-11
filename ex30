@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE Country LIKE 'I%'
+ORDER BY City;
