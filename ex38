@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE CustomerName LIKE 'Service%'
+ORDER BY ContactName;
