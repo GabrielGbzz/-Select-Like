@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE ContactName LIKE '_%'
+ORDER BY ContactName ASC;
