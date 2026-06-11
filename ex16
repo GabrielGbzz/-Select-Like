@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE PostalCode LIKE '5%'
+ORDER BY ContactName DESC;
