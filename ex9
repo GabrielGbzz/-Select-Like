@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE CustomerName LIKE '%Shop%'
+ORDER BY Country;
