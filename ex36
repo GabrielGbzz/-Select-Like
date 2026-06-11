@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE ContactName LIKE 'Brazil'
+ORDER BY CustomerName AND PostalCode;
