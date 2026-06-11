@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE Country LIKE 'Canada'
+ORDER BY PostalCode AND CustomerName;
