@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE CustomerName LIKE '_%'
+ORDER BY Country and City
