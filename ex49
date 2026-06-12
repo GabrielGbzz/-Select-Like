@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE ContactName LIKE '%king%'
+ORDER BY CustomerID;
