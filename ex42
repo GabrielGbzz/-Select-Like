@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE CustomerName LIKE '%group%'
+ORDER BY Country ASC;
