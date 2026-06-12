@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE ContactName LIKE '%e'
+ORDER BY PostalCode
