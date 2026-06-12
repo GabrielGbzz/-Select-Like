@@ -1,0 +1,4 @@
+SELECT *
+FROM Customers
+WHERE PostalCode LIKE '3%'
+ORDER BY CustomerName AND Country;
